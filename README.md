@@ -4,8 +4,9 @@ This project is a Flappy Bird game developed using Java and LibGDX. Since I most
 
 ## 📸 Game Screenshots
 
-![Game Screenshot 1](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-06%20195339.png)
-![Game Screenshot 2](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-06%20195442.png)
+![Game Screenshot 1](https://github.com/talhakvk/Flappy-Bird/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-06%20195339.png)
+![Game Screenshot 2](https://github.com/talhakvk/Flappy-Bird/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-06%20195442.png)
+![Game Screenshot 3](https://github.com/talhakvk/Flappy-Bird/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-06%20195350.png)
 
 ## 🛠️ Technologies Used
 
