@@ -34,7 +34,7 @@ To develop a game with LibGDX, follow these steps:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/username/FlappyBird-LibGDX.git
+   git clone https://github.com/talhakvk/Flappy-Bird
    ```
 2. Open it with IntelliJ IDEA or Eclipse.
 3. Run the `DesktopLauncher` class to start the game.
